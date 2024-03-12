@@ -41,5 +41,40 @@ The Covid-19 Global Analysis project aims to comprehensively analyze the impact 
 ### About The Dataset
 The "WHO Covid-19 Global Data Analysis" project involves analyzing comprehensive data provided by the World Health Organization (WHO) regarding the Covid-19 pandemic on a global scale. The data encompasses various aspects of the pandemic, including confirmed cases, deaths, recoveries, testing rates, vaccination coverage, and other relevant metrics. The data in this dataset was collected from the WHO Covid-19 dashboard data downloadable statistical release on the 31st of Decemember, 2023. This data is updated weekly. Users should note that, in addition to capturing new cases and deaths reported on any given day, updates are made retrospectively to correct counts on previous days as needed based on subsequent information received.. You can click [here](https://data.who.int/dashboards/covid19/data) to visit the WHO website and access the latest update.
 
-The dataset is made up of 4 downloadable tables, the vaccination-data.csv, vaccination-metadata, WHO-Covid-19-global-data.csv, and WHO-Covid-19-global-table-data.csv. Y
+The dataset is made up of 4 downloadable tables, and they are: vaccination-data.csv, vaccination-metadata, WHO-Covid-19-global-data.csv, and WHO-Covid-19-global-table-data.csv. You can access them all here
+
+
+### Skills Utilized
+1. Data Transformation
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
+
+
+### Tools Utilized
+1. Microsoft Excel
+    - Was used to:
+        1. Was used to save extracted data from WHO website,
+        2. Transform,
+        3. Load the dataset for this analysis.
+     
+2. Tableau (Was used to create dashboards for this analysis)
+    - The following Tableau were incorporated:
+        1. Calculated Fields
+        2. Geospatial Analysis
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
+        6. Buttons
+
+
+### Data Transformation and Loading in Microsoft Excel and Tableau:
+- Did the first data cleaning in Microsoft excel before loading the dataset to Tableau.
+- Changed the data types to the appropriate data types in Tableau.
+- Divided the grouped __"CONFIRMED"__ column into __"Confirmed"__ and __"Confirmed (Last 2 Weeks)"__ in Tableau.
+- Divided the grouped __"RECOVERIES"__ column into __"Eecoveries"__ and __"Recoveries (Last 2 Weeks)"__ in Tableau.
+- Divided the grouped __"DEATHS"__ column into __"Deaths"__ and __"Deaths (Last 2 Weeks)"__ in Tableau.
+- Divided the grouped __"TESTING"__ column into __"Testing"__ and __"Testing (Last 2 Weeks)"__ in Tableau.
+
 
