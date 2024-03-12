@@ -72,9 +72,17 @@ The data source is made up of 4 datasets, and they are: vaccination-data.csv, va
 ### Data Transformation and Loading in Microsoft Excel and Tableau:
 - Did the first data cleaning in Microsoft excel before loading the dataset to Tableau.
 - Changed the data types to the appropriate data types in Tableau.
-- Divided the grouped __"CONFIRMED"__ column into __"Confirmed"__ and __"Confirmed (Last 2 Weeks)"__ in Tableau.
-- Divided the grouped __"RECOVERIES"__ column into __"Eecoveries"__ and __"Recoveries (Last 2 Weeks)"__ in Tableau.
-- Divided the grouped __"DEATHS"__ column into __"Deaths"__ and __"Deaths (Last 2 Weeks)"__ in Tableau.
-- Divided the grouped __"TESTING"__ column into __"Testing"__ and __"Testing (Last 2 Weeks)"__ in Tableau.
+
+
+
+**Tableau Data View**
+
+Tableau Data Screenshot                                                             |                                
+:---------------------------------------------------------------------------------:|
+![](images/Tableau_Data_Screenshot.png)
+
+
+## Join/ Blend Data
+There was no need to join or blend data as we have just a single table for this analysis.
 
 
