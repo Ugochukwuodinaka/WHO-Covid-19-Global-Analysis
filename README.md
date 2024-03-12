@@ -86,3 +86,24 @@ Tableau Data Screenshot                                                         
 There was no need to join or blend data as we have just a single table for this analysis.
 
 
+## Tableau Visualization:
+#### Dashboard View 1
+![](images/WHO_%20Covid-19%20_Global_Analysis1.png)
+
+#### Dashboard View 2
+![](images/WHO_%20Covid-19%20_Global_Analysis2.png)
+
+
+### WHO Project Analysis:
+In this analysis, the following Key findings below were made:
+- The Cumulative Covid-19 Cases at the time if this analysis was __78,104,887,614.__
+- The New Cases was __773,119,173.__
+- The Cases recorded as of Last 7 Days of this Analysis was __1,813,700.__
+- The Cumulative Deaths was __924,851,078.__
+- The Deaths recorded as of the Last 7 Days of this Analysis was __8,736.__
+- The Number of Countries captured in this Analysis was __234.__
+
+
+- <img src="images/Total_No_Of_New_Cases_By_Region.png" width="350">
+- **Total Number of New Cases By Region:**
+- This analysis is on the provides
