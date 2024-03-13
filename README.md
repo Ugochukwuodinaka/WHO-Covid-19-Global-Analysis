@@ -104,9 +104,9 @@ In this analysis, the following Key findings below were made:
 - The Number of Countries captured in this Analysis was __234.__
 
 
-- <img src="images/Total_No_Of_New_Cases_By_Region.png" width="300">
-- **Total Number of New Cases By Region:**
-- This is an analysis of the World Health Organization (WHO) on the total number of new Covid-19 cases by region. It offers valuable insights into the global distribution and impact of the pandemic. Let's analyze each WHO region to glean insights into the patterns and trends observed:
+- <img src="images/Reported_Cases_By_Region.png" width="300">
+- **Reported Cases By Region:**
+- This is an analysis of the World Health Organization (WHO) on the total number of new Covid-19 reported cases by region. It offers valuable insights into the global distribution and impact of the pandemic. Let's analyze each WHO region to glean insights into the patterns and trends observed:
 - __EURO Region:__ The EURO region reported the highest number of new Covid-19 cases, totaling approximately 277,745,749 cases. This region encompasses countries in Europe, which have been significantly affected by the pandemic since its onset. The high number of cases in this region reflects the widespread transmission of the virus and the challenges faced in controlling its spread despite advanced healthcare systems and public health interventions.
 - __WPRO Region:__ The WPRO region reported a substantial number of new Covid-19 cases, totaling around 207,767,484 cases. This region comprises countries in the Western Pacific, including populous nations like China and Japan. The significant case count in this region highlights the global reach of the pandemic. 
 - __AMRO Region:__ The AMRO region reported a considerable number of new Covid-19 cases, totaling approximately 192,633,514 cases. This region encompasses countries in the Americas, including the United States, Brazil, and Mexico, which have been heavily impacted by the pandemic. Factors such as population density, healthcare infrastructure, and socio-economic disparities contribute to the high case count in this region.
@@ -133,9 +133,9 @@ In this analysis, the following Key findings below were made:
 
 
 
-- <img src="images/Top10_Countries_With_New_Deaths.png" width="300">
-- **Top 10 Countries With New Deaths:**
-- In the analysis of the top 10 countries with the highest number of new Covid-19 deaths, i  provided critical insights into the severity of the pandemic's impact on global mortality rates:
+- <img src="images/Top10_Countries_By_Reported_Cases.png" width="300">
+- **Top 10 Countries By Reported Cases:**
+- In the analysis of the top 10 countries with the highest number of reported Covid-19 deaths, i  provided critical insights into the severity of the pandemic's impact on global mortality rates:
 - __United States of America:__ Leading the list with 1,144,877 new deaths, the USA continued to face significant challenges in managing the pandemic and reducing mortality rates.
 - __Brazil:__ Brazil follows closely with 702,116 new deaths, highlighting the devastating toll of the virus on the country's population and healthcare system.
 - __India:__ India reported 533,333 new deaths, indicating the widespread impact of the pandemic despite recent efforts to ramp up vaccination and containment measures.
@@ -149,9 +149,9 @@ In this analysis, the following Key findings below were made:
 
 
 
-- <img src="images/New_Deaths_By_Region.png" width="300">
-- **New Deaths By Region:**
-- In the data on new Covid-19 deaths by WHO region, key insights were provided into the distribution and impact of mortality rates globally:
+- <img src="images/Reported_Deaths_By_Region.png" width="300">
+- **Reported Deaths By Region:**
+- In the data on reported Covid-19 deaths by WHO region, key insights were provided into the distribution and impact of mortality rates globally:
 - __AMRO (Americas):__ With 2,973,030 new deaths, the AMRO region, comprising the Americas, faces significant mortality rates, reflecting the severity of the pandemic in this region.
 - __EURO (Europe):__ EURO reported 2,259,637 new deaths, indicating substantial mortality rates and the toll of the pandemic on European countries despite advanced healthcare systems.
 - __SEARO (Southeast Asia):__ SEARO reported 808,166 new deaths, highlighting the impact of the pandemic on countries in Southeast Asia and the need for enhanced healthcare infrastructure and resources.
@@ -161,9 +161,9 @@ In this analysis, the following Key findings below were made:
 
 
 
-- <img src="images/Least10_Countries_With_New_Cases.png" width="300">
-- **Least 10 Countries With New Cases:**
-- In this analysis of the data on the least 10 countries with new Covid-19 cases, i shedded light on regions experiencing minimal transmission rates:
+- <img src="images/Least10_Countries_By_Reported_Cases.png" width="300">
+- **Least 10 Countries By Reported Cases:**
+- In this analysis of the data on the least 10 countries by reported Covid-19 cases, i shedded light on regions experiencing minimal transmission rates:
 - __Wallis and Futuna:__ With 3,550 new cases, Wallis and Futuna demonstrate minimal transmission rates, potentially attributed to its small population and remote location.
 - __Saint Pierre Miquelon:__ Reporting 3,426 new cases, Saint Pierre Miquelon's low population density and stringent border controls likely contribute to its low transmission rates.
 - __Tuvalu:__ Tuvalu reported 2,943 new cases, benefiting from its isolated location and small population, which aids in controlling the spread of the virus.
@@ -174,3 +174,82 @@ In this analysis, the following Key findings below were made:
 - __Tokelau:__ Tokelau reports only 80 new cases, benefitting from its remote location and small population, which aids in preventing widespread transmission.
 - __Holy See:__ Reporting 20 new cases, the Holy See's small population and strict measures likely contribute to its minimal transmission rates.
 - __Pitcairn:__ With only 4 new cases, Pitcairn's extremely low population density and isolation help keep transmission rates negligible.
+
+
+
+
+- <img src="images/Least10_Countries_By_Rreported_Deaths.png" width="300">
+- **Least 10 Countries By Reported Deaths:**
+- In this analysis, the countries listed among the least 10 by reported Covid-19 deaths exhibit minimal mortality rates, which may indeed be influenced by factors such as low population density:
+- __Burundi:__ With 15 new deaths, Burundi's low population density, favorable geographical and racial factors, and effective containment measures likely contributed to its minimal mortality rates.
+- __Vanuatu:__ Reporting 14 new deaths, Vanuatu's remote location and sparse population may help limit the spread of the virus and subsequent fatalities.
+- __Tonga:__ Tonga reported 12 new deaths, benefitting from its isolated geographical location and small population, which aids in preventing widespread transmission and fatalities.
+- __Anguilla:__ With 12 new deaths, Anguilla's low population density and stringent public health measures likely contribute to its minimal mortality rates.
+- __Palau:__ Reporting 9 new deaths, Palau's remote location and small population size likely help in containing the spread of the virus and reducing fatalities.
+- __Wallis and Futuna:__ With 8 new deaths, Wallis and Futuna's small population and effective containment efforts contribute to its low mortality rates.
+- __Montserrat:z-- Montserrat reported 8 new deaths, likely influenced by its small population size and effective public health measures.
+- __Cook Islands:__ With only 2 new deaths, the Cook Islands benefit from their remote location and sparse population, which aids in preventing widespread transmission and fatalities.
+- __Tuvalu:__ Reporting 1 new death, Tuvalu's low population density and geographical isolation contribute to its ability to keep mortality rates minimal.
+- __Nauru:__ With only 1 new death, Nauru's small population and strict measures likely contribute to its minimal mortality rates.
+
+
+
+- <img src="images/Top10_Countries_With_Most_Vaccinations.png" width="300">
+- **Top 10 Countries With Most Vaccinantions:**
+- The top 10 countries with the highest number of Covid-19 vaccinations achieved remarkable progress in immunizing their populations, driven by several contributing factors. Below is my analysis on this:
+- __China:__ China's large population and robust vaccination infrastructure facilitated the administration of over 3.5 billion vaccine doses, indicating an extensive vaccination campaign.
+- __India:__ India's vast vaccination efforts, supported by its populous demographics and vaccination drive, resulted in over 2.2 billion vaccine doses administered.
+- __United States of America:__ The USA's efficient vaccine distribution network and prioritization of vaccination led to the administration of over 700 million vaccine doses, demonstrating its commitment to widespread immunization.
+- __Brazil:__ Brazil's active vaccination campaign, coupled with its substantial population, contributed to the administration of over 500 million vaccine doses, marked significant progress in the country's immunization efforts.
+- __Indonesia:__ Indonesia's accelerated vaccination program, supported by government initiatives and public health campaigns, resulted in the administration of over 440 million vaccine doses.
+- __Japan:__ Japan's efficient vaccination rollout and nationwide distribution channels led to the administration of over 400 million vaccine doses, signaling progress in achieving herd immunity.
+- __Bangladesh:__ Bangladesh's proactive vaccination strategy and collaboration with international partners facilitated the administration of over 360 million vaccine doses, which aided in controlling the spread of the virus.
+- __Pakistan:__ Pakistan's vaccination efforts, bolstered by government initiatives and public awareness campaigns, led to the administration of over 340 million vaccine doses, contributing to immunity levels within the population.
+- __Vietnam:__ Vietnam's comprehensive vaccination program, combined with public health measures, resulted in the administration of over 260 million vaccine doses, enhancing protection against Covid-19.
+- __Mexico:__ Mexico's vaccination campaign, supported by government efforts and collaboration with vaccine manufacturers, led to the administration of over 220 million vaccine doses, aiding in the fight against the pandemic.
+
+
+- <img src="images/Least10_Countries_With_Most_Vaccinations.png" width="300">
+- **Least 10 Countries With Lowest Vaccinantions:**
+- This analysis is on the least 10 countries with the lowest number of Covid-19 vaccinations. These countries have faced challenges in achieving widespread immunization, influenced by various contributing factors:
+- __Burundi:__ Burundi's low vaccination rate of 41,538 vaccinations may be attributed to limited access to vaccines, logistical challenges, and vaccine hesitancy among the population.
+- __British Virgin Islands:__ With 41,453 vaccinations, the British Virgin Islands' small population and logistical constraints may have hindered vaccine distribution and administration efforts.
+- __Cook Islands:__ With 40,080 vaccinations, the Cook Islands' remote location and dependence on external support for vaccine supply and distribution may have contributed to its low vaccination rate.
+- __Nauru:__ Nauru's low vaccination count of 32,157 indicates that Nauru's limited healthcare infrastructure and small population size may have impacted its ability to procure and administer vaccines effectively.
+- __Tuvalu:__ Tuvalu's geographical isolation and logistical challenges in vaccine distribution may have resulted in its low vaccination rate of 26,783.
+- __Anguilla:_- Anguilla's small population and reliance on external support for vaccine procurement and distribution may have contributed to its low vaccination rate of 24,864.
+- __Wallis and Futuna:__ With a low vaccination rate of 17,303, Wallis and Futuna's remote location and limited healthcare resources may have affected its capacity to administer vaccines efficiently.
+- __Tokelau:__ With 6,342 vaccinations, Tokelau's remote and sparsely populated islands may have faced logistical hurdles in vaccine delivery and limited access to healthcare facilities.
+- __Niue:__ With 4,923 vaccination counts, Niue's small population and reliance on external assistance for vaccine procurement and distribution may have impacted its vaccination efforts.
+- _-Montserrat:__ Montserrat's small population size and limited healthcare infrastructure may have posed challenges in vaccine procurement, distribution, and administration. These may have attributed to its low vaccination rate of 4,619.
+
+
+
+- <img src="images/Cumulative_No_of_Cases_%26_Deaths_By_Year.png" width="300">
+- **Cumulative Number of Reported Cases And Reported Deaths By Year:**
+- The cumulative number of reported Covid-19 cases and deaths by year provides valuable insights into the trajectory of the pandemic, The key insights below:
+- __2020:__ In 2020, there were 80.3 million reported cases and 1.9 million reported deaths globally, marking the onset of the pandemic and the initial surge in infections and fatalities.
+- __2021:__ The year 2021 saw a significant increase in both reported cases and deaths, with 200.3 million reported cases and 3.5 million reported deaths reported, reflecting the widespread transmission of the virus and the strain on healthcare systems.
+- __2022:__ Despite efforts to control the spread of the virus, 2022 witnessed a continued rise in reported cases to 424 million, while reported deaths declined to 1.2 million, indicating advancements in medical treatments and vaccination efforts.
+- __2023:__ By 2023, the number of reported cases decreased to 68.5 million, while reported deaths further declined to 294,371, suggesting improved containment measures, vaccination coverage, and public health interventions.
+
+
+
+## Tableau Visualization Dashboard:
+You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/WHOCOVID-19GLOBALANALYSIS_17040613047730/Dashboard1?pu)
+
+
+
+## Recommendations On Reducing The Global Spread of Covid-19:
+- __Vaccination Equity:__ The World Health Organization should ensure equitable access to Covid-19 vaccines worldwide, they should prioritizing distribution to vulnerable populations and low-income countries to curb transmission and mitigate the emergence of new variants.
+- __Enhanced Surveillance and Testing:__  The World Health Organization in collaboration with countries needs to implement robust surveillance systems and expand testing capacity globally to detect and monitor Covid-19 cases effectively, enabling prompt responses and containment measures.
+- __Public Health Measures:__ They should promote adherence to proven public health measures such as mask-wearing, physical distancing, hand hygiene, and ventilation, particularly in high-risk settings, to reduce transmission and protect vulnerable populations.
+- __International Collaboration:__ Tthey should foster international cooperation and coordination in sharing data, resources, and expertise to strengthen pandemic response efforts, they should also facilitate vaccine production and distribution, and address global health disparities.
+- __Risk Communication:__ They can enhance communication strategies to disseminate accurate information, combat misinformation and vaccine hesitancy, and empower communities to make informed decisions about Covid-19 prevention and vaccination.
+- __Support Healthcare Systems:__ In collaboration with countries of the world, they can provide adequate resources, funding, and support to healthcare systems worldwide to enhance capacity for Covid-19 treatment, vaccination, and preparedness for future pandemics.
+
+
+
+
+
+
