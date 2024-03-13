@@ -129,3 +129,19 @@ In this analysis, the following Key findings below were made:
 - __Russian Federation:__ The Russian Federation reported a substantial number of new Covid-19 cases, totaling around 23,576,556 cases. The country implemented a combination of public health measures and vaccination campaigns to control transmission and protect public health. However, there were still challenges in ensuring equitable access to vaccines and addressing vaccine hesitancy among certain populations.
 - __Mexico:__ Mexico reported a moderate number of new Covid-19 cases, totaling around 7,702,731 cases. The country faced challenges in managing the pandemic, including limited healthcare resources and socio-economic disparities. Mexico implemented public health measures such as mask mandates and social distancing guidelines to mitigate transmission, but challenges persisted in controlling the spread of the virus.
 - __Peru:__ Peru reported a moderate number of new Covid-19 cases, totaling around 4,530,620 cases. The country implemented various public health measures and vaccination campaigns to control transmission and protect public health. However, there were challenges in ensuring compliance with public health guidelines and addressing socio-economic disparities in access to healthcare and vaccines.
+
+
+
+- <img src="images/Top10_Countries_With_New_Deaths.png" width="300">
+- **Top 10 Countries With New Deaths:**
+- In the analysis of the top 10 countries with the highest number of new Covid-19 deaths, i  provided critical insights into the severity of the pandemic's impact on global mortality rates:
+- __United States of America:__ Leading the list with 1,144,877 new deaths, the USA continued to face significant challenges in managing the pandemic and reducing mortality rates.
+- __Brazil:__ Brazil follows closely with 702,116 new deaths, highlighting the devastating toll of the virus on the country's population and healthcare system.
+- __India:__ India reported 533,333 new deaths, indicating the widespread impact of the pandemic despite recent efforts to ramp up vaccination and containment measures.
+- __Russian Federation:__ With 400,935 new deaths, Russia faces ongoing challenges in controlling transmission and ensuring access to healthcare services for Covid-19 patients.
+- __Mexico:__ Mexico reported 334,947 new deaths, emphasizing the need for continued vigilance and public health interventions to mitigate the spread of the virus.
+- __United Kingdom of Great Britain and Northern Ireland:__ The UK reported 232,112 new deaths, underlining the importance of maintaining effective public health measures and vaccination campaigns.
+- __Peru:__ Peru reported 221,575 new deaths, highlighting the impact of the pandemic on countries with limited healthcare infrastructure and resources.
+- __Italy:__ Italy reported 193,743 new deaths, demonstrating the persistent challenges in controlling transmission and reducing mortality rates despite early outbreaks.
+- __Germany:__ Germany reported 174,979 new deaths, indicating the ongoing need for robust public health responses and vaccination campaigns to protect vulnerable populations.
+- __France:__ France reported 167,985 new deaths, reflecting the continued burden of the pandemic on healthcare systems and the importance of coordinated international efforts to combat the virus.
