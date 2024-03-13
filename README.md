@@ -225,7 +225,7 @@ In this analysis, the following Key findings below were made:
 
 
 
-- <img src="images/Cumulative_No_of_Cases_%26_Deaths_By_Year.png" width="300">
+- <img src="images/Cumulative_Reported_Cases_And_Deaths_By_Year.png" width="300">
 - **Cumulative Number of Reported Cases And Reported Deaths By Year:**
 - The cumulative number of reported Covid-19 cases and deaths by year provides valuable insights into the trajectory of the pandemic, The key insights below:
 - __2020:__ In 2020, there were 80.3 million reported cases and 1.9 million reported deaths globally, marking the onset of the pandemic and the initial surge in infections and fatalities.
