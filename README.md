@@ -119,16 +119,17 @@ In this analysis, the following Key findings below were made:
 - <img src="images/Top10_Countries_With_New_Cases.png" width="300">
 - **Top 10 Countries With New Cases:**
 - In this analysis on the top 10 countries with new Covid-19 cases, insights were offered into the global distribution and magnitude of the pandemic. Let's analyze each country to understand the patterns and trends observed:
-- __United States of America (USA):__ The USA reported the highest number of new Covid-19 cases, totaling approximately 103,436,829 cases. The country experienced multiple waves of infections throughout the pandemic, with varying levels of containment measures and vaccination efforts. Factors such as population density, healthcare disparities, and public health policies have influenced the trajectory of the pandemic in the USA.
-- __India:__ India reported a substantial number of new Covid-19 cases, totaling around 45,008,620 cases. The country experienced a devastating surge in cases during the second wave of the pandemic, overwhelming healthcare systems and leading to significant morbidity and mortality. Factors such as population density, limited healthcare resources, and socio-economic disparities contributed to the severity of the outbreak in India.
-- __France:__ France reported a high number of new Covid-19 cases, totaling approximately 38,997,490 cases. The country implemented various public health measures to control the spread of the virus, including lockdowns, social distancing, and mask mandates. Despite these efforts, France continued to face challenges in managing the pandemic, particularly with the emergence of new variants and vaccine distribution issues.
-- __Germany:__ Germany reported a significant number of new Covid-19 cases, totaling around 38,437,756 cases. The country implemented aggressive testing and contact tracing strategies to control transmission, along with vaccination campaigns to boost immunity. However, the emergence of new variants and pandemic fatigue posed challenges to Germany's efforts to contain the virus.
-- __Brazil:__ Brazil reported a substantial number of new Covid-19 cases, totaling approximately 37,519,960 cases. The country faced significant challenges in controlling the pandemic, with political and logistical issues hampering response efforts. Brazil's healthcare system was strained by the high number of cases, leading to shortages of medical supplies and overwhelmed hospitals.
-- __Italy:__ Italy reported a considerable number of new Covid-19 cases, totaling around 26,495,903 cases. The country was one of the early epicenters of the pandemic, experiencing a devastating outbreak in early 2020. Italy has since implemented stringent measures to contain the virus, including lockdowns and vaccination campaigns, but continued to face challenges in managing the pandemic.
-- __United Kingdom of Great Britain and Northern Ireland (UK):__ The reported a significant number of new Covid-19 cases, totaling approximately 24,812,582 cases. The country implemented a phased approach to pandemic response, including lockdowns, mass testing, and vaccine rollouts. Despite vaccination efforts, the UK faced challenges with new variants and surges in cases, requiring ongoing vigilance and public health measures.
-- __Russian Federation:__ The Russian Federation reported a substantial number of new Covid-19 cases, totaling around 23,576,556 cases. The country implemented a combination of public health measures and vaccination campaigns to control transmission and protect public health. However, there were still challenges in ensuring equitable access to vaccines and addressing vaccine hesitancy among certain populations.
-- __Mexico:__ Mexico reported a moderate number of new Covid-19 cases, totaling around 7,702,731 cases. The country faced challenges in managing the pandemic, including limited healthcare resources and socio-economic disparities. Mexico implemented public health measures such as mask mandates and social distancing guidelines to mitigate transmission, but challenges persisted in controlling the spread of the virus.
-- __Peru:__ Peru reported a moderate number of new Covid-19 cases, totaling around 4,530,620 cases. The country implemented various public health measures and vaccination campaigns to control transmission and protect public health. However, there were challenges in ensuring compliance with public health guidelines and addressing socio-economic disparities in access to healthcare and vaccines.
+- __United States of America:__ Leading the list with 103,436,829 new cases, the USA remained heavily impacted by the pandemic, highlighting ongoing challenges in containment efforts.
+- __India:__ Following closely with 45,008,620 new cases, India continued to experience significant transmission rates despite recent vaccination efforts and containment measures.
+- __France:__ France reported 38,997,490 new cases, indicating substantial community transmission and the need for stringent public health interventions to curb the spread.
+- __Germany:__ With 38,437,756 new cases, Germany faced persistent challenges in controlling outbreaks and ensuring healthcare capacity amidst the pandemic.
+- __Brazil:__ Brazil reported 37,519,960 new cases, reflecting the widespread transmission of the virus and the strain on the country's healthcare system.
+- __Italy:__ Italy reported 26,495,903 new cases, demonstrating the continued impact of the pandemic on European countries and the importance of coordinated response efforts.
+- __United Kingdom of Great Britain and Northern Ireland:__ The UK reported 24,812,582 new cases, underscoring the need for continued vigilance and adherence to public health guidelines to mitigate transmission rates.
+- __Russian Federation:__ Russia reported 23,576,556 new cases, exposing the global reach of the pandemic and the challenges in controlling transmission in densely populated regions.
+- __Mexico:__ Mexico reported 7,702,731 new cases, indicating significant transmission rates and the need for enhanced testing, contact tracing, and vaccination efforts.
+- __Peru:__ Peru reported 4,530,620 new cases, underlining the impact of the pandemic on countries with limited healthcare infrastructure and resources.
+
 
 
 
@@ -145,3 +146,31 @@ In this analysis, the following Key findings below were made:
 - __Italy:__ Italy reported 193,743 new deaths, demonstrating the persistent challenges in controlling transmission and reducing mortality rates despite early outbreaks.
 - __Germany:__ Germany reported 174,979 new deaths, indicating the ongoing need for robust public health responses and vaccination campaigns to protect vulnerable populations.
 - __France:__ France reported 167,985 new deaths, reflecting the continued burden of the pandemic on healthcare systems and the importance of coordinated international efforts to combat the virus.
+
+
+
+- <img src="images/New_Deaths_By_Region.png" width="300">
+- **New Deaths By Region:**
+- In the data on new Covid-19 deaths by WHO region, key insights were provided into the distribution and impact of mortality rates globally:
+- __AMRO (Americas):__ With 2,973,030 new deaths, the AMRO region, comprising the Americas, faces significant mortality rates, reflecting the severity of the pandemic in this region.
+- __EURO (Europe):__ EURO reported 2,259,637 new deaths, indicating substantial mortality rates and the toll of the pandemic on European countries despite advanced healthcare systems.
+- __SEARO (Southeast Asia):__ SEARO reported 808,166 new deaths, highlighting the impact of the pandemic on countries in Southeast Asia and the need for enhanced healthcare infrastructure and resources.
+- __WPRO (Western Pacific):__ WPRO reported 418,729 new deaths, indicating the toll of the pandemic on countries in the Western Pacific region and the challenges in controlling transmission rates.
+- __EMRO (Eastern Mediterranean):__ EMRO reported 351,854 new deaths, demonstrating the impact of the pandemic on countries in the Eastern Mediterranean region and the importance of coordinated response efforts.
+- __AFRO (Africa):__ AFRO reported 174,367 new deaths, indicating comparatively lower mortality rates in the African region but underscoring the need for continued vigilance and public health interventions.
+
+
+
+- <img src="images/Least10_Countries_With_New_Cases.png" width="300">
+- **Least 10 Countries With New Cases:**
+- In this analysis of the data on the least 10 countries with new Covid-19 cases, i shedded light on regions experiencing minimal transmission rates:
+- __Wallis and Futuna:__ With 3,550 new cases, Wallis and Futuna demonstrate minimal transmission rates, potentially attributed to its small population and remote location.
+- __Saint Pierre Miquelon:__ Reporting 3,426 new cases, Saint Pierre Miquelon's low population density and stringent border controls likely contribute to its low transmission rates.
+- __Tuvalu:__ Tuvalu reported 2,943 new cases, benefiting from its isolated location and small population, which aids in controlling the spread of the virus.
+- __Saint Helena:__ With 2,166 new cases, Saint Helena's isolated geographical location and limited population contribute to its low transmission rates.
+- __Falkland Islands (Malvinas):__ Reporting 1,923 new cases, the Falkland Islands benefit from their remote location and sparse population, which may help contain the spread of the virus.
+- __Montserrat:__ Montserrat reports 1,403 new cases, likely influenced by its small population size and effective public health measures.
+- __Niue:__ With 895 new cases, Niue's low population density and geographic isolation contribute to its ability to control transmission rates effectively.
+- __Tokelau:__ Tokelau reports only 80 new cases, benefitting from its remote location and small population, which aids in preventing widespread transmission.
+- __Holy See:__ Reporting 20 new cases, the Holy See's small population and strict measures likely contribute to its minimal transmission rates.
+- __Pitcairn:__ With only 4 new cases, Pitcairn's extremely low population density and isolation help keep transmission rates negligible.
