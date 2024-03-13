@@ -235,6 +235,15 @@ In this analysis, the following Key findings below were made:
 
 
 
+- <img src="images/Rreported_Cases_And_Death_Situation_Globally.png" width="550">
+- **Geospatial Map of Reported Cases and Death Situation Globally:**
+- This interactive geospatial map illustrates the distribution of reported Covid-19 cases and death situation globally. It provides valuable insights into the geographic spread of the pandemic. Here's a detailed analysis of the benefits and implications of this map:
+- __Visualizing Geographic Spread:__ This geospatial map allows stakeholders to visualize the distribution of confirmed Covid-19 cases and related deaths across different countries and regions of the world. By plotting data points on the map, users can quickly identify regions and countries with high case counts and assess the extent of the pandemic's geographic spread globally.
+- __Risk Assessment:__ The map serves as a tool for risk assessment, enabling health authorities, policymakers, and researchers to identify hotspots and emerging trends in Covid-19 transmission. Areas with high concentrations of confirmed cases and deaths may indicate heightened risk levels and the need for targeted interventions and resource allocation.
+- __Decision-making Support:__ The geospatial map assists decision-making processes by providing spatial context and actionable insights into the pandemic's impact on specific regions. Decision-makers can use the map to prioritize response efforts, allocate healthcare resources, and implement containment measures based on the severity and geographic distribution of Covid-19 cases.
+
+
+
 ## Tableau Visualization Dashboard:
 You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/WHOCOVID-19GLOBALANALYSIS_17040613047730/Dashboard1?pu)
 
@@ -250,6 +259,8 @@ You can view and interact with this dashboard report [here](https://public.table
 
 
 
+
+## Thank You For Following Through!
 
 
 
