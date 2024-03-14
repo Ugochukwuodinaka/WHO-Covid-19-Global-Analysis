@@ -94,9 +94,13 @@ The __ratings__ table has been modelled with:
 
 - The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  
 
-Model View                                                                         |                                
+Data Source View                                                                   |                                
 :---------------------------------------------------------------------------------:|
-![](images/PowerBI_Model_View_Screenshot.png)                                             |    
+![](images/Tableau_Data_Source_Relationship_Screenshot.png)                        |    
+
+
+
+
 ## Tableau Visualization:
 #### Dashboard View 1
 ![](images/WHO_%20Covid-19%20_Global_Analysis1.png)
