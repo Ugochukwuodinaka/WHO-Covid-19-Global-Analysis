@@ -83,9 +83,20 @@ Tableau Data Screenshot                                                         
 
 
 ## Join/ Blend Data
-There was no need to join or blend data as we have just a single table for this analysis.
+The data required for this analysis are located in various tables. Therefore, data blending was required. A star Schema is designed with the __ratings__ table representing the fact table containing quantitative measures (ratings), and to which other dimension tables are modelled or connected to, using the __Customer_ID__  and __Restaurant_ID__ fields. 
 
+The __ratings__ table has been modelled with:
 
+- __consumers__ table using the __Consumer_ID__
+- __restaurants__ table using the __Restaurant_ID__
+- __consumer_preferences__ table using the __Consumer_ID__
+- __restaurant_cuisines__ table using the __Restuarant_ID__
+
+- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  
+
+Model View                                                                         |                                
+:---------------------------------------------------------------------------------:|
+![](images/PowerBI_Model_View_Screenshot.png)                                             |    
 ## Tableau Visualization:
 #### Dashboard View 1
 ![](images/WHO_%20Covid-19%20_Global_Analysis1.png)
@@ -96,11 +107,10 @@ There was no need to join or blend data as we have just a single table for this 
 
 ### WHO Project Analysis:
 In this analysis, the following Key findings below were made:
-- The Cumulative Covid-19 Cases at the time if this analysis was __78,104,887,614.__
-- The New Cases was __773,119,173.__
-- The Cases recorded as of Last 7 Days of this Analysis was __1,813,700.__
-- The Cumulative Deaths was __924,851,078.__
-- The Deaths recorded as of the Last 7 Days of this Analysis was __8,736.__
+- The Reported Cases was __773,119,173.__
+- The Cases recorded as of Last 7 Days of this Analysis was __518,208.__
+- The Reported Deaths was __6,990,067.__
+- The Deaths recorded as of the Last 7 Days of this Analysis was __2,496.__
 - The Number of Countries captured in this Analysis was __234.__
 
 
