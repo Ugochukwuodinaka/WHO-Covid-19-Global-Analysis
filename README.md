@@ -75,13 +75,6 @@ The data source is made up of 4 datasets, and they are: vaccination-data.csv, va
 
 
 
-**Tableau Data View**
-
-Tableau Data Screenshot                                                             |                                
-:---------------------------------------------------------------------------------:|
-![](images/Tableau_Data_Screenshot.png)
-
-
 ## Join/ Blend Data
 The data required for this analysis are located in various tables. Therefore, data blending was required. A star Schema is designed with the __ratings__ table representing the fact table containing quantitative measures (ratings), and to which other dimension tables are modelled or connected to, using the __Customer_ID__  and __Restaurant_ID__ fields. 
 
