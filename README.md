@@ -76,16 +76,14 @@ The data source is made up of 4 datasets, and they are: vaccination-data.csv, va
 
 
 ## Join/ Blend Data
-The data required for this analysis are located in various tables. Therefore, data blending was required. A star Schema is designed with the __ratings__ table representing the fact table containing quantitative measures (ratings), and to which other dimension tables are modelled or connected to, using the __Customer_ID__  and __Restaurant_ID__ fields. 
+The data required for this analysis are located in various tables. Therefore, data blending was required. A star join is designed with the __vaccination-data__ table representing the fact table containing quantitative measures (vaccinations), and to which other dimension tables are modelled or connected to, using the __Country__  and __Name__ fields. 
 
-The __ratings__ table has been modelled with:
+The __vaccination-data__ table has been blended with:
 
-- __consumers__ table using the __Consumer_ID__
-- __restaurants__ table using the __Restaurant_ID__
-- __consumer_preferences__ table using the __Consumer_ID__
-- __restaurant_cuisines__ table using the __Restuarant_ID__
+- __WHO-COVID-19-global-data__ table using the __Country__ field.
+- __WHO-COVID-19-global-table-data__ table using the __Name__ field.
 
-- The Model View displays a view of the __ratings__ (fact) table, the __consumers__ table (dimension),  __restaurants__ table (dimension),  the __consumer_preferences__ (dimension) table,  the __restaurant_cuisines__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  
+- The Data Source View displays a view of the __vaccination-data__ (fact) table, the __WHO-COVID-19-global-data__ table (dimension), and the __WHO-COVID-19-global-table-data__ table (dimension).
 
 Data Source View                                                                   |                                
 :---------------------------------------------------------------------------------:|
