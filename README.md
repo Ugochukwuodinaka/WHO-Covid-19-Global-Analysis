@@ -67,7 +67,7 @@ The data source is made up of 4 datasets, and they are: vaccination-data.csv, va
     - Was used to:
         1. Was used to save extracted data from WHO website,
         2. Transform,
-        3. Load the dataset for this analysis.
+        3. Load the datasets for this analysis.
      
 2. Tableau (Was used to create dashboards for this analysis)
     - The following Tableau were incorporated:
