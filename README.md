@@ -3,6 +3,16 @@
 
 
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Utilized](#tools-utilized)
+- [Tableau Visualization](#tableau-visualization)
+- [WHO Project Analysis](#who-project-analysis)
+- [Tableau Visualization Dashboard](#tableau-visualization-dashboard)
+- [Recommendations On Reducing The Global Spread of Covid-19](#recommendations-on-reducing-the-global-spread-of-covid-19)
+
+
 
 
 ## Project Overview
@@ -122,63 +132,63 @@ In this analysis, the following Key findings below were made:
 
 
 - <img src="images/Top10_Countries_By_Reported_Cases.png" width="300">
-- **Top 10 Countries With New Cases:**
-- In this analysis on the top 10 countries with new Covid-19 cases, insights were offered into the global distribution and magnitude of the pandemic. Let's analyze each country to understand the patterns and trends observed:
-- __United States of America:__ Leading the list with 103,436,829 new cases, the USA remained heavily impacted by the pandemic, highlighting ongoing challenges in containment efforts.
-- __India:__ Following closely with 45,008,620 new cases, India continued to experience significant transmission rates despite recent vaccination efforts and containment measures.
-- __France:__ France reported 38,997,490 new cases, indicating substantial community transmission and the need for stringent public health interventions to curb the spread.
-- __Germany:__ With 38,437,756 new cases, Germany faced persistent challenges in controlling outbreaks and ensuring healthcare capacity amidst the pandemic.
-- __Brazil:__ Brazil reported 37,519,960 new cases, reflecting the widespread transmission of the virus and the strain on the country's healthcare system.
-- __Italy:__ Italy reported 26,495,903 new cases, demonstrating the continued impact of the pandemic on European countries and the importance of coordinated response efforts.
-- __United Kingdom of Great Britain and Northern Ireland:__ The UK reported 24,812,582 new cases, underscoring the need for continued vigilance and adherence to public health guidelines to mitigate transmission rates.
-- __Russian Federation:__ Russia reported 23,576,556 new cases, exposing the global reach of the pandemic and the challenges in controlling transmission in densely populated regions.
-- __Mexico:__ Mexico reported 7,702,731 new cases, indicating significant transmission rates and the need for enhanced testing, contact tracing, and vaccination efforts.
-- __Peru:__ Peru reported 4,530,620 new cases, underlining the impact of the pandemic on countries with limited healthcare infrastructure and resources.
-
-
-
-
-- <img src="images/Top10_Countries_By_Reported_Cases.png" width="300">
 - **Top 10 Countries By Reported Cases:**
+- In this analysis on the top 10 countries by reported Covid-19 cases, insights were offered into the global distribution and magnitude of the pandemic. Let's analyze each country to understand the patterns and trends observed:
+- __United States of America:__ Leading the list with 103,436,829 reported cases, the USA remained heavily impacted by the pandemic, highlighting ongoing challenges in containment efforts.
+- __India:__ Following closely with 45,008,620 reported cases, India continued to experience significant transmission rates despite recent vaccination efforts and containment measures.
+- __France:__ France reported 38,997,490 cases, indicating substantial community transmission and the need for stringent public health interventions to curb the spread.
+- __Germany:__ With 38,437,756 reported cases, Germany faced persistent challenges in controlling outbreaks and ensuring healthcare capacity amidst the pandemic.
+- __Brazil:__ Brazil reported 37,519,960 cases, reflecting the widespread transmission of the virus and the strain on the country's healthcare system.
+- __Italy:__ Italy reported 26,495,903 cases, demonstrating the continued impact of the pandemic on European countries and the importance of coordinated response efforts.
+- __United Kingdom of Great Britain and Northern Ireland:__ The UK reported 24,812,582 cases, underscoring the need for continued vigilance and adherence to public health guidelines to mitigate transmission rates.
+- __Russian Federation:__ Russia reported 23,576,556 cases, exposing the global reach of the pandemic and the challenges in controlling transmission in densely populated regions.
+- __Mexico:__ Mexico reported 7,702,731 cases, indicating significant transmission rates and the need for enhanced testing, contact tracing, and vaccination efforts.
+- __Peru:__ Peru reported 4,530,620 cases, underlining the impact of the pandemic on countries with limited healthcare infrastructure and resources.
+
+
+
+
+- <img src="images/Top10_Countries_By_Reported_Deaths.png" width="300">
+- **Top 10 Countries By Reported Deaths:**
 - In the analysis of the top 10 countries with the highest number of reported Covid-19 deaths, i  provided critical insights into the severity of the pandemic's impact on global mortality rates:
-- __United States of America:__ Leading the list with 1,144,877 new deaths, the USA continued to face significant challenges in managing the pandemic and reducing mortality rates.
-- __Brazil:__ Brazil follows closely with 702,116 new deaths, highlighting the devastating toll of the virus on the country's population and healthcare system.
-- __India:__ India reported 533,333 new deaths, indicating the widespread impact of the pandemic despite recent efforts to ramp up vaccination and containment measures.
-- __Russian Federation:__ With 400,935 new deaths, Russia faces ongoing challenges in controlling transmission and ensuring access to healthcare services for Covid-19 patients.
-- __Mexico:__ Mexico reported 334,947 new deaths, emphasizing the need for continued vigilance and public health interventions to mitigate the spread of the virus.
-- __United Kingdom of Great Britain and Northern Ireland:__ The UK reported 232,112 new deaths, underlining the importance of maintaining effective public health measures and vaccination campaigns.
-- __Peru:__ Peru reported 221,575 new deaths, highlighting the impact of the pandemic on countries with limited healthcare infrastructure and resources.
-- __Italy:__ Italy reported 193,743 new deaths, demonstrating the persistent challenges in controlling transmission and reducing mortality rates despite early outbreaks.
-- __Germany:__ Germany reported 174,979 new deaths, indicating the ongoing need for robust public health responses and vaccination campaigns to protect vulnerable populations.
-- __France:__ France reported 167,985 new deaths, reflecting the continued burden of the pandemic on healthcare systems and the importance of coordinated international efforts to combat the virus.
+- __United States of America:__ Leading the list with 1,144,877 reported deaths, the USA continued to face significant challenges in managing the pandemic and reducing mortality rates.
+- __Brazil:__ Brazil follows closely with 702,116 reported deaths, highlighting the devastating toll of the virus on the country's population and healthcare system.
+- __India:__ India reported 533,333 deaths, indicating the widespread impact of the pandemic despite recent efforts to ramp up vaccination and containment measures.
+- __Russian Federation:__ With 400,935 reported deaths, Russia faces ongoing challenges in controlling transmission and ensuring access to healthcare services for Covid-19 patients.
+- __Mexico:__ Mexico reported 334,947 deaths, emphasizing the need for continued vigilance and public health interventions to mitigate the spread of the virus.
+- __United Kingdom of Great Britain and Northern Ireland:__ The UK reported 232,112 deaths, underlining the importance of maintaining effective public health measures and vaccination campaigns.
+- __Peru:__ Peru reported 221,575 deaths, highlighting the impact of the pandemic on countries with limited healthcare infrastructure and resources.
+- __Italy:__ Italy reported 193,743 deaths, demonstrating the persistent challenges in controlling transmission and reducing mortality rates despite early outbreaks.
+- __Germany:__ Germany reported 174,979 deaths, indicating the ongoing need for robust public health responses and vaccination campaigns to protect vulnerable populations.
+- __France:__ France reported 167,985 deaths, reflecting the continued burden of the pandemic on healthcare systems and the importance of coordinated international efforts to combat the virus.
 
 
 
 - <img src="images/Reported_Deaths_By_Region.png" width="300">
 - **Reported Deaths By Region:**
 - In the data on reported Covid-19 deaths by WHO region, key insights were provided into the distribution and impact of mortality rates globally:
-- __AMRO (Americas):__ With 2,973,030 new deaths, the AMRO region, comprising the Americas, faces significant mortality rates, reflecting the severity of the pandemic in this region.
-- __EURO (Europe):__ EURO reported 2,259,637 new deaths, indicating substantial mortality rates and the toll of the pandemic on European countries despite advanced healthcare systems.
-- __SEARO (Southeast Asia):__ SEARO reported 808,166 new deaths, highlighting the impact of the pandemic on countries in Southeast Asia and the need for enhanced healthcare infrastructure and resources.
-- __WPRO (Western Pacific):__ WPRO reported 418,729 new deaths, indicating the toll of the pandemic on countries in the Western Pacific region and the challenges in controlling transmission rates.
-- __EMRO (Eastern Mediterranean):__ EMRO reported 351,854 new deaths, demonstrating the impact of the pandemic on countries in the Eastern Mediterranean region and the importance of coordinated response efforts.
-- __AFRO (Africa):__ AFRO reported 174,367 new deaths, indicating comparatively lower mortality rates in the African region but underscoring the need for continued vigilance and public health interventions.
+- __AMRO (Americas):__ With 2,973,030 reported deaths, the AMRO region, comprising the Americas, faces significant mortality rates, reflecting the severity of the pandemic in this region.
+- __EURO (Europe):__ EURO reported 2,259,637 deaths, indicating substantial mortality rates and the toll of the pandemic on European countries despite advanced healthcare systems.
+- __SEARO (Southeast Asia):__ SEARO reported 808,166 deaths, highlighting the impact of the pandemic on countries in Southeast Asia and the need for enhanced healthcare infrastructure and resources.
+- __WPRO (Western Pacific):__ WPRO reported 418,729 deaths, indicating the toll of the pandemic on countries in the Western Pacific region and the challenges in controlling transmission rates.
+- __EMRO (Eastern Mediterranean):__ EMRO reported 351,854 deaths, demonstrating the impact of the pandemic on countries in the Eastern Mediterranean region and the importance of coordinated response efforts.
+- __AFRO (Africa):__ AFRO reported 174,367 deaths, indicating comparatively lower mortality rates in the African region but underscoring the need for continued vigilance and public health interventions.
 
 
 
 - <img src="images/Least10_Countries_By_Reported_Cases.png" width="300">
 - **Least 10 Countries By Reported Cases:**
 - In this analysis of the data on the least 10 countries by reported Covid-19 cases, i shedded light on regions experiencing minimal transmission rates:
-- __Wallis and Futuna:__ With 3,550 new cases, Wallis and Futuna demonstrate minimal transmission rates, potentially attributed to its small population and remote location.
-- __Saint Pierre Miquelon:__ Reporting 3,426 new cases, Saint Pierre Miquelon's low population density and stringent border controls likely contribute to its low transmission rates.
-- __Tuvalu:__ Tuvalu reported 2,943 new cases, benefiting from its isolated location and small population, which aids in controlling the spread of the virus.
-- __Saint Helena:__ With 2,166 new cases, Saint Helena's isolated geographical location and limited population contribute to its low transmission rates.
-- __Falkland Islands (Malvinas):__ Reporting 1,923 new cases, the Falkland Islands benefit from their remote location and sparse population, which may help contain the spread of the virus.
-- __Montserrat:__ Montserrat reports 1,403 new cases, likely influenced by its small population size and effective public health measures.
-- __Niue:__ With 895 new cases, Niue's low population density and geographic isolation contribute to its ability to control transmission rates effectively.
-- __Tokelau:__ Tokelau reports only 80 new cases, benefitting from its remote location and small population, which aids in preventing widespread transmission.
-- __Holy See:__ Reporting 20 new cases, the Holy See's small population and strict measures likely contribute to its minimal transmission rates.
-- __Pitcairn:__ With only 4 new cases, Pitcairn's extremely low population density and isolation help keep transmission rates negligible.
+- __Wallis and Futuna:__ With 3,550 reported cases, Wallis and Futuna demonstrate minimal transmission rates, potentially attributed to its small population and remote location.
+- __Saint Pierre Miquelon:__ Reporting 3,426 cases, Saint Pierre Miquelon's low population density and stringent border controls likely contribute to its low transmission rates.
+- __Tuvalu:__ Tuvalu reported 2,943 cases, benefiting from its isolated location and small population, which aids in controlling the spread of the virus.
+- __Saint Helena:__ With 2,166 reported cases, Saint Helena's isolated geographical location and limited population contribute to its low transmission rates.
+- __Falkland Islands (Malvinas):__ Reporting 1,923 cases, the Falkland Islands benefit from their remote location and sparse population, which may help contain the spread of the virus.
+- __Montserrat:__ Montserrat reports 1,403 cases, likely influenced by its small population size and effective public health measures.
+- __Niue:__ With 895 reported cases, Niue's low population density and geographic isolation contribute to its ability to control transmission rates effectively.
+- __Tokelau:__ Tokelau reports only 80 cases, benefitting from its remote location and small population, which aids in preventing widespread transmission.
+- __Holy See:__ Reporting 20 cases, the Holy See's small population and strict measures likely contribute to its minimal transmission rates.
+- __Pitcairn:__ With only 4 cases, Pitcairn's extremely low population density and isolation help keep transmission rates negligible.
 
 
 
@@ -186,7 +196,7 @@ In this analysis, the following Key findings below were made:
 - <img src="images/Least10_Countries_By_Rreported_Deaths.png" width="300">
 - **Least 10 Countries By Reported Deaths:**
 - In this analysis, the countries listed among the least 10 by reported Covid-19 deaths exhibit minimal mortality rates, which may indeed be influenced by factors such as low population density:
-- __Burundi:__ With 15 new deaths, Burundi's low population density, favorable geographical and racial factors, and effective containment measures likely contributed to its minimal mortality rates.
+- __Burundi:__ With 15 reported new deaths, Burundi's low population density, favorable geographical and racial factors, and effective containment measures likely contributed to its minimal mortality rates.
 - __Vanuatu:__ Reporting 14 new deaths, Vanuatu's remote location and sparse population may help limit the spread of the virus and subsequent fatalities.
 - __Tonga:__ Tonga reported 12 new deaths, benefitting from its isolated geographical location and small population, which aids in preventing widespread transmission and fatalities.
 - __Anguilla:__ With 12 new deaths, Anguilla's low population density and stringent public health measures likely contribute to its minimal mortality rates.
