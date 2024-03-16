@@ -18,7 +18,6 @@
 ## Project Overview
 
 ### Introduction:
- Introduction:
 The Covid-19 Global Analysis project aims to comprehensively analyze the impact of the Covid-19 pandemic on a global scale. By collecting, processing, and visualizing data from various sources, the project seeks to provide insights into the spread of the virus, its effects on public health systems, socio-economic implications, and response strategies adopted by different countries.
 
 
