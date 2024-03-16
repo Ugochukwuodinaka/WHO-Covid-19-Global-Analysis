@@ -121,7 +121,7 @@ In this analysis, the following Key findings below were made:
 
 
 
-- <img src="images/Top10_Countries_With_New_Cases.png" width="300">
+- <img src="images/Top10_Countries_By_Reported_Cases.png" width="300">
 - **Top 10 Countries With New Cases:**
 - In this analysis on the top 10 countries with new Covid-19 cases, insights were offered into the global distribution and magnitude of the pandemic. Let's analyze each country to understand the patterns and trends observed:
 - __United States of America:__ Leading the list with 103,436,829 new cases, the USA remained heavily impacted by the pandemic, highlighting ongoing challenges in containment efforts.
