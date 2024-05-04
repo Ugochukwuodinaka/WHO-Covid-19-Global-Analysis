@@ -1,5 +1,5 @@
 # WHO Covid-19 Global Data Analysis
-![](images/WHO_Codid-19_image.jpg)
+![](images/WHO_Covid-19_image.jpg)
 
 
 
