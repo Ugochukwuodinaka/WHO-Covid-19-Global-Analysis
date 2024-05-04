@@ -1,6 +1,6 @@
 # WHO Covid-19 Global Data Analysis
 ![](images/WHO_Covid-19_image.jpg)
-
+![Sink-main](images/WHO_Covid-19_image.jpg)
 
 
 ## Table of Contents
