@@ -161,8 +161,8 @@ In this analysis, the following Key findings below were made:
 - __Italy:__ Italy reported 193,743 deaths, demonstrating the persistent challenges in controlling transmission and reducing mortality rates despite early outbreaks.
 - __Germany:__ Germany reported 174,979 deaths, indicating the ongoing need for robust public health responses and vaccination campaigns to protect vulnerable populations.
 - __France:__ France reported 167,985 deaths, reflecting the continued burden of the pandemic on healthcare systems and the importance of coordinated international efforts to combat the virus.
-*<br />
-<br />**
+<br />
+<br />
 
 - <img src="images/Reported_Deaths_By_Region.png" width="300">
 
