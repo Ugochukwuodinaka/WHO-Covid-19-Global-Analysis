@@ -7,7 +7,7 @@
 - [About The Dataset](#about-the-dataset)
 - [Tools Utilized](#tools-utilized)
 - [Tableau Visualization](#tableau-visualization)
-- [WHO Project Analysis](#who-project-analysis)
+- [Project Analysis](#project-analysis)
 - [Tableau Visualization Dashboard](#tableau-visualization-dashboard)
 - [Recommendations On Reducing The Global Spread of Covid-19](#recommendations-on-reducing-the-global-spread-of-covid-19)
 <br />
