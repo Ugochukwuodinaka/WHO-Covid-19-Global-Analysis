@@ -17,7 +17,7 @@
 ## Project Overview
 
 ### Introduction:
-The Covid-19 Global Analysis project aims to comprehensively analyze the impact of the Covid-19 pandemic on a global scale. By collecting, processing, and visualizing data from various sources, the project seeks to provide insights into the spread of the virus, its effects on public health systems, socio-economic implications, and response strategies adopted by different countries.
+Covid-19 Global Analysis seeks to do an in-depth analysis of the extent of damage caused by the pandemic globally.The objective of this project is to get insights into how the virus has spread, its impacts on health systems, socio-economic effects, and response strategies adopted at the country level by collecting, processing, and visualizing data from several sources.
 
 
 ### Objectives:
@@ -47,7 +47,7 @@ The Covid-19 Global Analysis project aims to comprehensively analyze the impact 
 <br />
 
 ### About The Dataset
-The "WHO Covid-19 Global Data Analysis" project involves analyzing comprehensive data provided by the World Health Organization (WHO) regarding the Covid-19 pandemic on a global scale. The data encompasses various aspects of the pandemic, including confirmed cases, deaths, recoveries, testing rates, vaccination coverage, and other relevant metrics. The data in this dataset was collected from the WHO Covid-19 dashboard data downloadable statistical release on the 31st of Decemember, 2023. This data is updated weekly. Users should note that, in addition to capturing new cases and deaths reported on any given day, updates are made retrospectively to correct counts on previous days as needed based on subsequent information received.. You can click [here](https://data.who.int/dashboards/covid19/data) to visit the WHO website and access the latest update.
+WHO Covid-19 Global Data Analysis": all data analysis on the pandemic by the World Health Organization regarding the Covid-19 globally.The dataset shall contain all information on the situation of the pandemic, confirming cases, deaths, recoveries, testing rate, vaccination coverage, and other metrics for the pandemic. The data in this dataset was collected from the WHO Covid-19 dashboard data downloadable statistical release on the 31st of Decemember, 2023. This data is updated weekly. Users should note that, in addition to capturing new cases and deaths reported on any given day, updates are made retrospectively to correct counts on previous days as needed based on subsequent information received.. You can click [here](https://data.who.int/dashboards/covid19/data) to visit the WHO website and access the latest update.
 
 The data source is made up of 4 datasets, and they are: vaccination-data.csv, vaccination-metadata, WHO-Covid-19-global-data.csv, and WHO-Covid-19-global-table-data.csv. You can access all of them [here](datasets)
 <br />
@@ -57,19 +57,20 @@ The data source is made up of 4 datasets, and they are: vaccination-data.csv, va
 1. Data Transformation
 2. Data Visualiziation
 3. Descriptive Analytics
-4. Critical Thinking and Problem Solving
-5. Communication and Reporting
+4. Analytical Thinking and Critical Thinking
+5. Problem Solving
+6. Communication and Reporting
 <br />
 
 ### Tools Utilized
 1. Microsoft Excel
     - Was used to:
-        1. Was used to save extracted data from WHO website,
-        2. Transform,
+        1. Save extracted data from WHO website,
+        2. Clean and Transform the data,
         3. Load the datasets for this analysis.
      
 2. Tableau (Was used to create dashboards for this analysis)
-    - The following Tableau were incorporated:
+    - The following Tableau tools were incorporated:
         1. Calculated Fields
         2. Geospatial Analysis
         3. Page Navigation
@@ -84,7 +85,7 @@ The data source is made up of 4 datasets, and they are: vaccination-data.csv, va
 <br />
 
 ## Join/ Blend Data
-The data required for this analysis are located in various tables. Therefore, data blending was required. A star join is designed with the __vaccination-data__ table representing the fact table containing quantitative measures (vaccinations), and to which other dimension tables are modelled or connected to, using the __Country__  and __Name__ fields. 
+The data required for this analysis are located in various tables. Therefore, data blending was required. A star join was designed with the __vaccination-data__ table representing the fact table containing quantitative measures (vaccinations), and to which other dimension tables are modelled or connected to, using the __Country__  and __Name__ fields. 
 
 The __vaccination-data__ table has been blended with:
 
@@ -121,13 +122,13 @@ In this analysis, the following Key findings below were made:
 - <img src="images/Reported_Cases_By_Region.png" width="300">
 
 - **Reported Cases By Region:**
-- This is an analysis of the World Health Organization (WHO) on the total number of new Covid-19 reported cases by region. It offers valuable insights into the global distribution and impact of the pandemic. Let's analyze each WHO region to glean insights into the patterns and trends observed:
-- __EURO Region:__ The EURO region reported the highest number of new Covid-19 cases, totaling approximately 277,745,749 cases. This region encompasses countries in Europe, which have been significantly affected by the pandemic since its onset. The high number of cases in this region reflects the widespread transmission of the virus and the challenges faced in controlling its spread despite advanced healthcare systems and public health interventions.
-- __WPRO Region:__ The WPRO region reported a substantial number of new Covid-19 cases, totaling around 207,767,484 cases. This region comprises countries in the Western Pacific, including populous nations like China and Japan. The significant case count in this region highlights the global reach of the pandemic. 
-- __AMRO Region:__ The AMRO region reported a considerable number of new Covid-19 cases, totaling approximately 192,633,514 cases. This region encompasses countries in the Americas, including the United States, Brazil, and Mexico, which have been heavily impacted by the pandemic. Factors such as population density, healthcare infrastructure, and socio-economic disparities contribute to the high case count in this region.
-- __SEARO Region:__ The SEARO region reported a moderate number of new Covid-19 cases, totaling around 61,226,840 cases. This region includes countries in Southeast Asia, such as India, Indonesia, and Thailand. While the case count in this region is lower compared to others, it still represents a significant burden of disease. 
-- __EMRO Region:__ The EMRO region reported a comparatively lower number of new Covid-19 cases, totaling around 23,408,461 cases. This region includes countries in the Eastern Mediterranean, such as Iran, Saudi Arabia, and Egypt. While the case count in this region is lower compared to others, it still represents a significant challenge for healthcare systems. 
-- __AFRO Region:__ The AFRO region reported the lowest number of new Covid-19 cases, totaling approximately 9,026,243 cases. This region comprises countries in Africa, where the pandemic has had a varied impact, with some countries experiencing significant outbreaks while others have been relatively spared. Factors such as limited testing capacity, infrastructure challenges, and younger populations may contribute to the lower case count in this region.
+- This is from the World Health Organization analysis in relation to the total number of new Covid-19 cases reported by region. This puts into perspective what the global distribution and impact of the pandemic are. Let's look at each region from WHO to see what lessons can be gained for the pattern and trend set:
+- __EURO Region:__ The EURO region reported new cases of Covid-19 to be the highest, about 277,745,749 cases. They were from countries in Europe, most of which have been at the receiving end since the outbreak. The principal factor that may have contributed to this trend in infection here could be the tremendous velocity at which contagion has spread and has, so far, not been controlled despite all advanced health facilities and public health measures in place.
+- __WPRO region:__ WPRO returned a high number of new Covid-19 cases at about 207,767,484 cases. It involves countries within the Western Pacific area, which has a pretty nice number of populous countries like China and Japan. That large count of cases in the region puts into perspective how far-reaching the pandemic has been.
+- __AMRO region:__ To this end, the number of new cases of Covid-19 in the AMRO region has been quite huge with some 192,633,514 cases. This was implicated with the countries from the Americas like the United States, Brazil, and Mexico that had been hit terribly by this pandemic. This explained well by the fact that these areas were densely populated coupled with bad health infrastructures and socio-economic disparity.
+- __SEARO Region:__ This region had approximately 61,226,840 new Covid-19 cases. These are the countries in the Southeast Asian region, inclusive of India, Indonesia, and Thailand. The count of the cases in this region was relative to other regions on the low side; however, it is still a heavyweight disease burden.
+- __EMRO Region:__ The EMRO region reported relatively fewer new cases of about 23,408,461. This region comprises most of the countries in the Eastern Mediterranean, including Iran, Saudi Arabia, and Egypt. Though the count of cases in this region is fairly low compared to the rest of the world, it is still sufficiently high to burden any healthcare system.
+- __AFRO Region:__ The AFRO region had the least number of new cases of Covid-19 at about 9,026,243 cases. This region holds countries in the African continent where the effect of the pandemic has varied, some going through major outbreaks and others having relatively been spared. Contributing issues may be, among others, limited testing capacity, weak infrastructure and structure, and relative youth of populations in this region.
 <br />
 <br />
 
@@ -197,11 +198,11 @@ In this analysis, the following Key findings below were made:
 - <img src="images/Least10_Countries_By_Rreported_Deaths.png" width="300">
 
 - **Least 10 Countries By Reported Deaths:**
-- In this analysis, the countries listed among the least 10 by reported Covid-19 deaths exhibit minimal mortality rates, which may indeed be influenced by factors such as low population density:
-- __Tonga, Anguilla, Palau:__ These countries report a low number of deaths, ranging from 12 to 9, indicating relatively successful management of Covid-19 fatalities despite their smaller populations. These countries remote location and small population size likely helped in containing the spread of the virus and reducing fatalities.
-- __Wallis and Futuna, Montserrat:__ With reported deaths in the single digit of 8, these territories demonstrate effective public health responses and potentially low transmission rates, contributing to fewer fatalities.
-- __Saint Barthélemy, Saint Pierre and Miquelon, Cook Islands:__ These regions report minimal deaths, with Saint Barthélemy reporting 5 deaths, Saint Pierre and Miquelon and Cook Islands each reporting 2 deaths, suggesting stringent measures or geographical isolation may have contributed to the low mortality rates.
-- __Tuvalu, Nauru:__ These countries report only 1 death each, possibly due to their remote locations, limited international travel, and effective containment measures.
+- The countries which make the list among the last 10 by reported Covid-19 deaths in this analysis have very low mortality, which might be influenced by a number of factors, such as low population density.
+- __Tonga, Anguilla, Palau:__ These three countries range from 12 to 9; for countries with such small populations, this is pretty good management of Covid-19 related fatalities.Being remotely located, with a small population size, probably helped in containing the spread of the virus, hence the fewer fatalities.
+- __Wallis and Futuna, Montserrat:__ With the number of reported deaths within a single digit at 8, these countries show effective public health responses; therefore, their transmission rates might be low hence fewer fatalities.
+- __Saint Barthélemy, Saint Pierre and Miquelon, Cook Islands:__ These territories reported very few deaths: Saint Barthélemy 5, Saint Pierre and Miquelon and Cook Islands 2 each.Obviously, either stringent measures or geographical isolation might have played the leading role in keeping the mortality rate so low.
+- __Tuvalu, Nauru:__ These countries report only one death each, likely due to their isolated location, reduced international movement, and stringent control measures.
 <br />
 <br />
 
@@ -231,11 +232,11 @@ In this analysis, the following Key findings below were made:
 - __Cook Islands:__ With 40,080 vaccinations, the Cook Islands' remote location and dependence on external support for vaccine supply and distribution may have contributed to its low vaccination rate.
 - __Nauru:__ Nauru's low vaccination count of 32,157 indicates that Nauru's limited healthcare infrastructure and small population size may have impacted its ability to procure and administer vaccines effectively.
 - __Tuvalu:__ Tuvalu's geographical isolation and logistical challenges in vaccine distribution may have resulted in its low vaccination rate of 26,783.
-- __Anguilla:_- Anguilla's small population and reliance on external support for vaccine procurement and distribution may have contributed to its low vaccination rate of 24,864.
+- __Anguilla:__ Anguilla's small population and reliance on external support for vaccine procurement and distribution may have contributed to its low vaccination rate of 24,864.
 - __Wallis and Futuna:__ With a low vaccination rate of 17,303, Wallis and Futuna's remote location and limited healthcare resources may have affected its capacity to administer vaccines efficiently.
 - __Tokelau:__ With 6,342 vaccinations, Tokelau's remote and sparsely populated islands may have faced logistical hurdles in vaccine delivery and limited access to healthcare facilities.
 - __Niue:__ With 4,923 vaccination counts, Niue's small population and reliance on external assistance for vaccine procurement and distribution may have impacted its vaccination efforts.
-- _-Montserrat:__ Montserrat's small population size and limited healthcare infrastructure may have posed challenges in vaccine procurement, distribution, and administration. These may have attributed to its low vaccination rate of 4,619.
+- __Montserrat:__ Montserrat's small population size and limited healthcare infrastructure may have posed challenges in vaccine procurement, distribution, and administration. These may have attributed to its low vaccination rate of 4,619.
 <br />
 <br />
 
@@ -253,10 +254,10 @@ In this analysis, the following Key findings below were made:
 - <img src="images/Rreported_Cases_And_Death_Situation_Globally.png" width="550">
 
 - **Geospatial Map of Reported Cases and Death Situation Globally:**
-- This interactive geospatial map illustrates the distribution of reported Covid-19 cases and death situation globally. It provides valuable insights into the geographic spread of the pandemic. Here's a detailed analysis of the benefits and implications of this map:
-- __Visualizing Geographic Spread:__ This geospatial map allows stakeholders to visualize the distribution of confirmed Covid-19 cases and related deaths across different countries and regions of the world. By plotting data points on the map, users can quickly identify regions and countries with high case counts and assess the extent of the pandemic's geographic spread globally.
-- __Risk Assessment:__ The map serves as a tool for risk assessment, enabling health authorities, policymakers, and researchers to identify hotspots and emerging trends in Covid-19 transmission. Areas with high concentrations of confirmed cases and deaths may indicate heightened risk levels and the need for targeted interventions and resource allocation.
-- __Decision-making Support:__ The geospatial map assists decision-making processes by providing spatial context and actionable insights into the pandemic's impact on specific regions. Decision-makers can use the map to prioritize response efforts, allocate healthcare resources, and implement containment measures based on the severity and geographic distribution of Covid-19 cases.
+– This is an interactive geospatial map of the reported Covid-19 cases and deaths worldwide. It gives much functional visibility into the geographic spread of the pandemic. Here is a comprehensive discussion on how useful the map is:
+- __Geospatial:__ This type of map enables stakeholders to see for themselves the geographic distribution of positive Covid-19 cases and associated deaths in various countries and regions throughout the world. In the layout, from mapping out data points, one can easily tell the regions and countries with high case counts and start to get a sense of how global the reach of the pandemic has grown in terms of its geographical spread around the world.
+- __Risk Assessment:__ The map is a tool for the risk assessment of health authorities, policy developers, and researchers in discerning Covid-19 transmission hotspots of today and yesterday. The beauty of this tool is that hot spots identified by areas with high incidence and death prevalence may mean increased risk and hence the necessity for targeted interventions and resource allocation.
+- __Decision-making Support:__ The geospatial map will aid in decision-making with spatial support and actionable intelligence into the impact of the pandemic in specific regions. The decision-makers have to use the map for the priority setting in the response, allocation of health resources, and containment measures subject to the severity and spread of Covid-19 and the areas affected.
 <br />
 <br />
 
@@ -277,6 +278,6 @@ You can view and interact with this dashboard report [here](https://public.table
 <br />
 
 ## Thank You For Following Through!
-
+![](images/Thank_you.jpg)
 
 
