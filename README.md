@@ -109,7 +109,7 @@ Data Source View                                                                
 <br />
 <br />
 
-### WHO Project Analysis:
+### Project Analysis:
 In this analysis, the following Key findings below were made:
 - The Reported Cases was __773,119,173.__
 - The Cases recorded as of Last 7 Days of this Analysis was __518,208.__
