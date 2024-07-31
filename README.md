@@ -57,7 +57,7 @@ The data source is made up of 4 datasets, and they are: vaccination-data.csv, va
 1. Data Transformation
 2. Data Visualiziation
 3. Descriptive Analytics
-4. Analytical Thinking and Critical Thinking
+4. Analytical and Critical Thinking
 5. Problem Solving
 6. Communication and Reporting
 <br />
@@ -85,7 +85,7 @@ The data source is made up of 4 datasets, and they are: vaccination-data.csv, va
 <br />
 
 ## Join/ Blend Data
-The data required for this analysis are located in various tables. Therefore, data blending was required. A star join was designed with the __vaccination-data__ table representing the fact table containing quantitative measures (vaccinations), and to which other dimension tables are modelled or connected to, using the __Country__  and __Name__ fields. 
+The data required for this analysis were located in various tables. Therefore, data blending was required. A star join was designed with the __vaccination-data__ table representing the fact table containing quantitative measures (vaccinations), and to which other dimension tables are modelled or connected to, using the __Country__  and __Name__ fields. 
 
 The __vaccination-data__ table has been blended with:
 
@@ -142,9 +142,9 @@ In this analysis, the following Key findings below were made:
 - __France:__ France reported 38,997,490 cases, indicating substantial community transmission and the need for stringent public health interventions to curb the spread.
 - __Germany:__ With 38,437,756 reported cases, Germany faced persistent challenges in controlling outbreaks and ensuring healthcare capacity amidst the pandemic.
 - __Brazil:__ Brazil reported 37,519,960 cases, reflecting the widespread transmission of the virus and the strain on the country's healthcare system.
-- __Republic of Korea, Japan:__ East Asian countries such as South Korea and Japan report significant case counts of 34,571,873 and 33,803,572 respectively, highlighting the challenges in controlling the spread despite effective public health measures.
-- __Italy:__ Italy reported 26,495,903 cases, demonstrating the continued impact of the pandemic on European countries and the importance of coordinated response efforts.
-- __United Kingdom of Great Britain and Northern Ireland:__ The UK reported 24,812,582 cases, underscoring the need for continued vigilance and adherence to public health guidelines to mitigate transmission rates.
+- __Republic of Korea, Japan:__ East Asian countries such as South Korea and Japan report significant case counts of 34,571,873 and 33,803,572 respectively, indicating the challenges in controlling the spread despite effective public health measures.
+- __Italy:__ Italy reported 26,495,903 cases, showing the continued impact of the pandemic on European countries and the importance of coordinated response efforts.
+- __United Kingdom of Great Britain and Northern Ireland:__ The UK reported 24,812,582 cases, showing the need for continued vigilance and adherence to public health guidelines to mitigate transmission rates.
 <br />
 <br />
 
@@ -153,7 +153,7 @@ In this analysis, the following Key findings below were made:
 - **Top 10 Countries By Reported Deaths:**
 - In the analysis of the top 10 countries with the highest number of reported Covid-19 deaths, i  provided critical insights into the severity of the pandemic's impact on global mortality rates:
 - __United States of America:__ Leading the list with 1,144,877 reported deaths, the USA continued to face significant challenges in managing the pandemic and reducing mortality rates.
-- __Brazil:__ Brazil follows closely with 702,116 reported deaths, highlighting the devastating toll of the virus on the country's population and healthcare system.
+- __Brazil:__ Brazil follows closely with 702,116 reported deaths, showing the devastating toll of the virus on the country's population and healthcare system.
 - __India:__ India reported 533,333 deaths, indicating the widespread impact of the pandemic despite recent efforts to ramp up vaccination and containment measures.
 - __Russian Federation:__ With 400,935 reported deaths, Russia faces ongoing challenges in controlling transmission and ensuring access to healthcare services for Covid-19 patients.
 - __Mexico:__ Mexico reported 334,947 deaths, emphasizing the need for continued vigilance and public health interventions to mitigate the spread of the virus.
@@ -199,16 +199,16 @@ In this analysis, the following Key findings below were made:
 
 - **Least 10 Countries By Reported Deaths:**
 - The countries which make the list among the last 10 by reported Covid-19 deaths in this analysis have very low mortality, which might be influenced by a number of factors, such as low population density.
-- __Tonga, Anguilla, Palau:__ These three countries range from 12 to 9; for countries with such small populations, this is pretty good management of Covid-19 related fatalities.Being remotely located, with a small population size, probably helped in containing the spread of the virus, hence the fewer fatalities.
+- __Tonga, Anguilla, Palau:__ These three countries range from 12 to 9; for countries with such small populations, this is pretty good management of Covid-19 related fatalities. Being remotely located, with a small population size, probably helped in containing the spread of the virus, hence the fewer fatalities.
 - __Wallis and Futuna, Montserrat:__ With the number of reported deaths within a single digit at 8, these countries show effective public health responses; therefore, their transmission rates might be low hence fewer fatalities.
-- __Saint Barthélemy, Saint Pierre and Miquelon, Cook Islands:__ These territories reported very few deaths: Saint Barthélemy 5, Saint Pierre and Miquelon and Cook Islands 2 each.Obviously, either stringent measures or geographical isolation might have played the leading role in keeping the mortality rate so low.
+- __Saint Barthélemy, Saint Pierre and Miquelon, Cook Islands:__ These territories reported very few deaths: Saint Barthélemy 5, Saint Pierre and Miquelon and Cook Islands 2 each. Obviously, either stringent measures or geographical isolation might have played the leading role in keeping the mortality rate so low.
 - __Tuvalu, Nauru:__ These countries report only one death each, likely due to their isolated location, reduced international movement, and stringent control measures.
 <br />
 <br />
 
 - <img src="images/Top10_Countries_With_Most_Vaccinations.png" width="300">
 
-- **Top 10 Countries With Most Vaccinantions:**
+- **Top 10 Countries With Most Vaccinations:**
 - The top 10 countries with the highest number of Covid-19 vaccinations achieved remarkable progress in immunizing their populations, driven by several contributing factors. Below is my analysis on this:
 - __China:__ China's large population and robust vaccination infrastructure facilitated the administration of over 3.5 billion vaccine doses, indicating an extensive vaccination campaign.
 - __India:__ India's vast vaccination efforts, supported by its populous demographics and vaccination drive, resulted in over 2.2 billion vaccine doses administered.
@@ -225,7 +225,7 @@ In this analysis, the following Key findings below were made:
 
 - <img src="images/Least10_Countries_With_Most_Vaccinations.png" width="300">
 
-- **Least 10 Countries With Lowest Vaccinantions:**
+- **Least 10 Countries With Lowest Vaccinations:**
 - This analysis is on the least 10 countries with the lowest number of Covid-19 vaccinations. These countries have faced challenges in achieving widespread immunization, influenced by various contributing factors:
 - __Burundi:__ Burundi's low vaccination rate of 41,538 vaccinations may be attributed to limited access to vaccines, logistical challenges, and vaccine hesitancy among the population.
 - __British Virgin Islands:__ With 41,453 vaccinations, the British Virgin Islands' small population and logistical constraints may have hindered vaccine distribution and administration efforts.
